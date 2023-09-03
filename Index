@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+   
+
+    <head charset="UTF-8">
+        
+        <title>Joshua Phillips</title>
+       
+     <style>
+
+
+
+       body {
+    background-color: rgb(233, 245, 246);
+       }
+
+       .imgsheep {
+        margin-left: 130px;
+        margin-top: 35px;
+   
+        }
+   
+
+        .h1 {
+            margin-left: 720px;
+            margin-top: -725px;
+            color: rgb(69, 89, 89);
+
+        }
+
+        .h2 {
+            margin-left: 00px;
+            margin-top: -725px;
+            color: rgb(89, 69, 70);
+
+        }
+
+        .box1 {
+            background-color: beige;
+            width: 400px;
+            height: 500px;
+            margin-left: 750px;
+            margin-top: -650px
+        }
+
+    </style>
+ 
+    <body>
+
+       
+        <img class="imgsheep" src="./images/sheep.jpeg" width="650px" height="850px">
+        
+
+  
+
+            <center>
+            <h1 class="h1">Future IT Project Manager</h1>
+
+            <h2 class="h2">Joshua Phillips</h2>
+            <div class="box1"></div>
+                
+            </center>
+            
+        
+
+
+  
+            
+       
+
+
+
+
+    </head>
+    <body>
+
+

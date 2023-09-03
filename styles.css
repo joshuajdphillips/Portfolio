@@ -1,0 +1,41 @@
+
+*
+  {
+    margin:3px;
+    padding:4px;
+  }
+
+
+body {
+    background-color: rgb(233, 245, 246);
+}
+
+h1 {
+    color:rgba(7, 27, 35, 0.323);
+}
+
+h2 {
+    color:rgba(0, 0, 0, 0.656);
+}
+
+
+.img_deg {
+    float: left;
+    width: 550px;
+    height: 730px;
+}
+
+.img_deg {
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+
+
+.div1 {
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 300px;
+    margin-left: 700px;
+    
+}
